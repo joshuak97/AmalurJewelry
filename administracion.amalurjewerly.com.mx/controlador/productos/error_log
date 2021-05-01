@@ -1,0 +1,34 @@
+[07-Apr-2021 21:36:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/select_descuento.php on line 5
+[08-Apr-2021 10:17:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[08-Apr-2021 10:17:45 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[08-Apr-2021 10:22:00 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[08-Apr-2021 10:22:00 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[23-Apr-2021 14:23:30 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/agregar_producto.php on line 27
+[23-Apr-2021 14:42:01 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/agregar_producto.php on line 31
+[23-Apr-2021 14:50:56 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/agregar_producto.php on line 31
+[23-Apr-2021 14:55:13 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/agregar_producto.php on line 31
+[28-Apr-2021 19:06:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/productos/agregar_set.php on line 76
+[28-Apr-2021 14:09:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 14:09:14 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 14:11:26 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 14:11:26 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:48:22 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:48:22 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:48:54 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:48:54 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:49:02 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:49:02 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:49:35 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 16:49:35 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:00:17 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:00:17 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:05:31 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:05:31 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:09:39 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:09:39 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:15:52 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[28-Apr-2021 17:15:52 America/Mexico_City] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[30-Apr-2021 05:09:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[30-Apr-2021 05:09:07 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[30-Apr-2021 05:09:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[30-Apr-2021 05:09:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14

@@ -1,0 +1,31 @@
+[10-Apr-2021 22:44:18 UTC] PHP Warning:  include(../controlador/consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/login.php on line 5
+[10-Apr-2021 22:44:18 UTC] PHP Warning:  include(../controlador/consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/login.php on line 5
+[10-Apr-2021 22:44:18 UTC] PHP Warning:  include(): Failed opening '../controlador/consulSQL.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewor3492/amalurjewerly.com.mx/process/login.php on line 5
+[20-Apr-2021 06:46:07 UTC] PHP Warning:  include(../consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 06:46:07 UTC] PHP Warning:  include(../consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 06:46:07 UTC] PHP Warning:  include(): Failed opening '../consulSQL.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 06:46:07 UTC] PHP Fatal error:  Uncaught Error: Class 'consultasSQL' not found in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 17
+[20-Apr-2021 12:44:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 21
+[20-Apr-2021 12:46:01 UTC] PHP Warning:  include(../consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 12:46:01 UTC] PHP Warning:  include(../consulSQL.php): failed to open stream: No such file or directory in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 12:46:01 UTC] PHP Warning:  include(): Failed opening '../consulSQL.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 3
+[20-Apr-2021 12:46:01 UTC] PHP Fatal error:  Uncaught Error: Class 'consultasSQL' not found in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ewor3492/amalurjewerly.com.mx/process/agregar_direccion.php on line 17
+[20-Apr-2021 12:46:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:46:45 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:48:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:48:15 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:49:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:49:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:52:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[20-Apr-2021 12:52:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 14
+[21-Apr-2021 08:36:06 America/Mexico_City] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function consultasSQL::InsertSQL(), 2 passed in /home/ewor3492/amalurjewerly.com.mx/process/registrar_usuario.php on line 28 and exactly 3 expected in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php:21
+Stack trace:
+#0 /home/ewor3492/amalurjewerly.com.mx/process/registrar_usuario.php(28): consultasSQL::InsertSQL('user,nombre,ape...', ''Joshuak500','J...')
+#1 {main}
+  thrown in /home/ewor3492/amalurjewerly.com.mx/config/consulSQL.php on line 21

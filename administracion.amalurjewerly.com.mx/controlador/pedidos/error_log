@@ -1,0 +1,26 @@
+[21-Apr-2021 05:47:25 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:29 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:47 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:49 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:50 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:47:50 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:49:42 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/pedidos/detalles_pedido.php on line 46
+[21-Apr-2021 05:57:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 05:57:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 05:57:32 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 05:57:32 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 05:59:57 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 05:59:57 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:00:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:03:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:03:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:03:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14
+[21-Apr-2021 06:03:34 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 14

@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^amalurjewerly\.com\.mx$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.amalurjewerly\.com\.mx$
+RewriteRule ^/?$ "https\:\/\/amalurjewelry\.com\.mx\/" [R=301,L]
+

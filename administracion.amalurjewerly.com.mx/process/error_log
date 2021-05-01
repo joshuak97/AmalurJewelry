@@ -1,0 +1,2 @@
+[07-Apr-2021 17:16:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 5
+[07-Apr-2021 17:16:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/administracion.amalurjewerly.com.mx/controlador/consulSQL.php on line 6
